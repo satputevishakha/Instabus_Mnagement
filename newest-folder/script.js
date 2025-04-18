@@ -1,1 +1,0 @@
-console.log("Hello from Git Bash! This JavaScript file is running.");
